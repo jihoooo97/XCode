@@ -9,12 +9,12 @@
 > 🔥 진행 사항
 > | 날짜 | 진행사항 |
 > |------|----------|
-> | 12/4 | Start! |
-> | 12/5 | Tupple & Boolean & Scope |
-> | 12/6 | Flow Control |
-> | 12/7 | Function & Optional |
-> | 12/8 | Collection-Array |
-> | 12/9 | Collection |
-> | 12/11 | Class & Swift 기본문법 끝|
-> | 12/12 | 현상금정보 앱 |
-> | 12/13 | 현상금정보 앱 복습 |
+> | 12 / 4 | Start ! |
+> | 12 / 5 | Tupple & Boolean & Scope |
+> | 12 / 6 | Flow Control |
+> | 12 / 7 | Function & Optional |
+> | 12 / 8 | Collection-Array |
+> | 12 / 9 | Collection |
+> | 12 / 11 | Class & Swift 기본문법 끝|
+> | 12 / 12 | 현상금정보 앱 |
+> | 12 / 13 | 현상금정보 앱 복습 |
