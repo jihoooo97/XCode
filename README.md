@@ -19,4 +19,4 @@
 > | 12 / 12 | 현상금정보 앱 [tableView] |
 > | 12 / 13 | 현상금정보 앱 복습 |
 > | 12 / 16 | 현상금정보 앱 [MVVM Pattern] |
-> | 12 / 17 | MVVM Pattern 복습 |
+> | 12 / 17 | MVVM Pattern 복습 & [CollectionView & Animation]|
