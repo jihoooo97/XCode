@@ -27,10 +27,4 @@ class DetailViewController: UIViewController {
     
 }
 
-class DetailViewModel {
-    var bountyInfo: BountyInfo?
-    
-    func update(model: BountyInfo?) {
-        bountyInfo = model
-    }
-}
+
