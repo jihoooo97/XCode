@@ -1,5 +1,5 @@
 # XCode
-> ![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/XCode?style=flat&labelColor=white&logo=Apple&logoColor=black)  
+> [![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/XCode?style=flat&labelColor=white&logo=Apple&logoColor=black)](https://github.com/jihoooo97/XCode)  
 > ### XCode 실습 기록
 > ### 🔥 iOS Developer가 되기 위한 여정 (12/4 ~ ) 🔥
 > ---
