@@ -22,3 +22,4 @@
 > | 12 / 17 | MVVM Pattern 복습 & [CollectionView & Animation] |
 > | 12 / 18 | Apple Music'st 앱 [CollectionView & AVFoundation] |
 > | 12 / 20 | Todo List 앱 [TapBarController & Codable] |
+> | 12 / 21 | Networking [GCD & Async] |
