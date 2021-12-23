@@ -23,3 +23,4 @@
 > | 12 / 18 | Apple Music'st 앱 [CollectionView & AVFoundation] |
 > | 12 / 20 | Todo List 앱 [TapBarController & Codable] |
 > | 12 / 21 | Networking [GCD & Async] |
+> | 12 / 23 | Networking [URLSession] |
