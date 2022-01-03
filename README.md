@@ -24,3 +24,4 @@
 > | 12 / 20 | Todo List 앱 [TapBarController & Codable] |
 > | 12 / 21 | Networking [GCD & Async] |
 > | 12 / 23 | Networking [URLSession] |
+> | 12 / 30 | 넷플릭스st 영상앱 |
