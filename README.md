@@ -25,3 +25,4 @@
 > | 12 / 21 | Networking [GCD & Async] |
 > | 12 / 23 | Networking [URLSession] |
 > | 12 / 30 | 넷플릭스st 영상앱 |
+> | ~ 01 / 01 | 단어장 어플 제작중 |
